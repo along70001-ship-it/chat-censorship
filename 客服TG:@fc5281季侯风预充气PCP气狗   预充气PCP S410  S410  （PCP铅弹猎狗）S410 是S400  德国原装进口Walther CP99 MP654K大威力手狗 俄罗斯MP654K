@@ -1,5 +1,8 @@
-Overview
-========
+布朗宁黄金道具GPDA 口径9MM进口道具精品
+https://t.me/jhl8888
+https://t.me/ty32fff
+客服TG:@fc5281
+半自动操作5.5MM口径 钢制Colt M4真人CS顶级装备5.5口径  半自动步枪口径：5.5 有膛线 M4全金属 经典陆军M15   瓦尔特统治者5.5口径 季侯风预充气PCP气狗   预充气PCP S410  S410（PCP铅弹猎狗）S410 是S400  德国原装进口Walther CP99 MP654K大威力手狗 俄罗斯MP654K 军版 仿真玩具枪沙漠之鹰50AE黑版   枪用二氧化碳盒 德版Walther CP99消声黑版 原装进口Walther PPK   西班牙Gamo shadow CSI 迷彩版 西班牙Gamo Whisper X威力 哈默利750 4.5mm口径进口气狗20J   比曼激光4.5mm  4.5MM 5.5MM200颗装GAMO狗粮  BBS 4.5MM镀镍狗粮  Daisy狗油  秃鹰气瓶TU精品  复刻MRDS轻量型内红点  台製12gm抛弃式CO2小钢瓶 AIM TOP绿巨人强压瓦斯  猛将ET-1000-12kgs瓦斯  三箭专用瞄准镜BUSHNELL 4x32  GAMO 4X32 原厂GAMO瞄准镜   12号单管猎枪 SB28WB  12号唧筒式猎枪 PF26SB  12号立式双管猎枪  伯莱塔UGB25猎枪  五连发猎枪 司马国狗金属波箱028  司马国狗金属波箱028S  司马032A绿色SOCOM  司马032-M14木色  司马金身MP5  司马042S（全钢实木AK47S ）  金弓全金属MP5 RAS版  金弓金波AUG  金弓金波MP5SD6  金弓战术版AK47S  金弓雷锤（6627）  金弓战术版AK47(0512)  金弓改进版M4CQB(FB6624)  金弓国狗M4A1  金弓金身M4A1(fb6604)  BOYI AK74S(RK02)  BOYI AK74S(RK03)实木版  BOYI AK74U金身实木版  BOYI M4 金属CASV(3581)  BOYI M4CQB(3981M)刻字版  BOYI SCAR(沙色)  BOYI SOPMOD M4(5181)  BOYI SPR/MK12(5281)  SRC CQB  GP RAS II SHORT  GP M4A1 COLT刻字版  CA M15A4 RIS  CA MP5 A3  GG AK 103  GG UMG.45 GG 全金属AK 104 
 
 This repository contains keyword blocklists and lists of other content such as URLs or images used to trigger censorship in apps used in China.  The WeChat, QQMail, Apple, and Bing lists were discovered using sample testing and thus do not completely cover the censored content on these platforms.  The remainder of the lists in this repository were reverse engineered from the application's software and are the exhaustive lists of keywords used to trigger censorship on these platforms.
 
@@ -70,7 +73,7 @@ Six months after our initial report, in a follow study, we found that Apple elim
 
 Data: [Keyword filtering rules](https://github.com/citizenlab/chat-censorship/tree/master/apple)
 
-## QQMail
+## Q 
 
 On Tencent's QQMail, we discover that certain combinations of keywords being present in email messages triggers their censorship.  However, the presence of other combinations, which we call extenuating combinations, deactivates the censorship of some censored keywords.
 
